@@ -159,9 +159,7 @@ Which pod type is used?
 ## Application Access
 - **URL:** http://52.221.223.125:30007
 
-## Output Verification
-The application was successfully accessed from the browser using the NodePort Service.
-The output is visible in the browser as shown in the screenshot below.
+
 
 ## Screenshot
 **Browser output**
