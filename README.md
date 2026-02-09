@@ -96,8 +96,8 @@ Which pod type is used?
 - D. ExternalName
 - **Ans:- B. NodePort**
 
-##Q14. You want pods inside the cluster to access an application using a DNS name.
-Which Service type should you use?
+## Q14. You want pods inside the cluster to access an application using a DNS name.
+**Which Service type should you use?**
 - A. NodePort
 - B. LoadBalancer
 - C. ClusterIP
