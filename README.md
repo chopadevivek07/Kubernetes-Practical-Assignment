@@ -157,7 +157,7 @@ Which pod type is used?
 - **Service Type:** NodePort
 
 ## Application Access
-- **URL:** http://<NodeIP>:30007
+- **URL:** http://52.221.223.125:30007
 
 ## Output Verification
 The application was successfully accessed from the browser using the NodePort Service.
